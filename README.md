@@ -15,7 +15,7 @@ Frontend Mentor Challenges help improve our coding skills by building realistic 
  ![image](https://user-images.githubusercontent.com/95243841/144630281-1b0834d4-1294-4aff-9611-435ce33645d5.png)
 
 ## links
-URL of the solution
+URL of the solution : https://github.com/Rontasse/NFT-Preview-Card-Component-Solution.git
 
 ## Process
   - Constructed
